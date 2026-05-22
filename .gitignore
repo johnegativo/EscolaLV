@@ -1,0 +1,23 @@
+# --- Compilação e Artefatos (Não envie o produto final, apenas o código) ---
+target/
+build/
+out/
+bin/
+*.war
+*.ear
+*.jar
+
+# --- Configurações das IDEs (Evita conflito com outros desenvolvedores) ---
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.nbdeploy/
+nbproject/
+.netbeans/
+
+# --- Logs e Arquivos do Servidor (GlassFish e Apache) ---
+*.log
+logs/
+domain-registry
