@@ -57,6 +57,14 @@ Sistema de Loja Virtual desenvolvido em Java Web utilizando as especificações 
 
 ---
 
+### 🗄️ Configuração do Banco de Dados (MySQL)
+
+1. Certifique-se de ter o MySQL Server ativo na sua máquina.
+2. Acesse a pasta `/database` deste repositório.
+3. Execute o script `script.sql` no seu gerenciador de banco de dados (ex: MySQL Workbench, DBeaver) para criar a estrutura das tabelas.
+4. Verifique ou ajuste as credenciais de acesso ao banco (usuário e senha) no arquivo do seu projeto Java localizado em:
+   `src/main/resources/META-INF/persistence.xml`
+
 ## ✒️ Autor
 
 *   **Desenvolvedor:** johnegativo - *Trabalho Inicial*
