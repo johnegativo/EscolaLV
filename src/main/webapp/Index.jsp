@@ -22,6 +22,11 @@
                     <li><a href="${pageContext.request.contextPath}${URL_BASE}/TransportadoraControlador">Transportadoras</a></li>
                     <li><a href="${pageContext.request.contextPath}${URL_BASE}/FornecedorControlador">Fornecedores</a></li>
                     <li><a href="${pageContext.request.contextPath}${URL_BASE}/ClienteControlador">Clientes</a></li>
+                    <li><a href="${pageContext.request.contextPath}${URL_BASE}/ProdutoControlador">Produtos</a></li>
+                    <li><a href="${pageContext.request.contextPath}${URL_BASE}/EnderecoControlador">Endereços</a></li>
+                    <li><a href="${pageContext.request.contextPath}${URL_BASE}/PedidoControlador">Pedidos</a></li>
+                    <li><a href="${pageContext.request.contextPath}${URL_BASE}/ItemPedidoControlador">Itens de Pedido</a></li>
+                    <li><a href="${pageContext.request.contextPath}${URL_BASE}/PagamentoControlador">Pagamentos</a></li>
                 </ul>
             </div>
         </nav>
